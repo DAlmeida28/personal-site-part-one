@@ -1,0 +1,43 @@
+.nav{
+  float: right;
+  background: gray;
+  border: 3px dashed black;
+  padding: 3px;
+}
+
+#head{
+  background-color: grey;
+}
+
+.centerme{
+  text-align: center;
+}
+
+body{
+  background-color: darkslategray;
+}
+
+h2{
+  background-color: beige;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
+
+#bioimg{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#footer{
+  width: 1000px;
+  height: 500px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
